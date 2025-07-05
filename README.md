@@ -1,19 +1,87 @@
-<h1 align="center">Hi 👋, I'm Karthiha</h1>
-<h3 align="center">A passionate web developer and automation tester</h3>
+<h1 align="center">Hi there, I'm Karthiha M 👋</h1>
 
-- 🔭 I’m currently working on [InOutAuto](https://github.com/karthiha03/InOutAuto)
-
-- 👯 I’m looking to collaborate on **Web development and full stack projects**
-
-- 📫 How to reach me **karthihamuthuraj@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HYNySClV6mObgGxxqcA6Rd0UcPD_zwvR/view?usp=sharing](https://drive.google.com/file/d/1HYNySClV6mObgGxxqcA6Rd0UcPD_zwvR/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karthihamuthuraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthihamuthuraj/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karthiha_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthiha_m" height="30" width="40" /></a>
+<p align="center">
+  🎓 B.Tech CSE (Core) @ SRM University | 💻 Aspiring Software Engineer | 🌱 Lifelong Learner
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+I'm a passionate Computer Science student with a strong foundation in programming, automation testing, and web development. I love solving real-world problems through code and continuously expanding my technical skill set.
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: C, Python, Java, C++
+- **Web Development**: HTML, CSS
+- **Automation Testing**: Selenium, TestNG
+- **CS Fundamentals**: DBMS, OS, OOP, Networking
+- **Tools**: Git, Excel, Streamlit
+- **Soft Skills**: Project Management, Attention to Detail, Quick Learner
+
+---
+
+## 💼 Experience
+
+### 🏢 Intern – Delphi-TVS (June 2024)
+- Gained practical experience in computer networking.
+- Worked in the Electronic Data Processing (EDP) department.
+
+### 💻 Intern – ThinkCove Technologies (Dec 2024)
+- Built and enhanced user interfaces using HTML and CSS.
+- Learned and applied front-end development best practices.
+
+---
+
+## 📂 Projects
+
+### 🔍 Logo Detection
+- **Objective**: Detect counterfeit logos to prevent fraud.
+- **Tech Stack**: Python, CNN, Streamlit
+- **Highlights**:
+  - Trained a deep learning model on real vs. fake logo datasets.
+  - Built a Streamlit app for users to upload and classify logos.
+
+### 🔐 Secure Login Automation
+- **Objective**: Automate login testing for secure web applications.
+- **Tech Stack**: Java, Selenium WebDriver, TestNG
+- **Highlights**:
+  - Used Page Object Model and Data-Driven Testing with Excel.
+  - Executed test suites using `testng.xml`.
+
+---
+
+## 📜 Certifications
+
+- 🧠 AWS Academy – Machine Learning Foundation
+- 🗃️ Meta (Coursera) – Introduction to Databases
+- 🌐 Google (Coursera) – The Bits and Bytes of Computer Networking
+- ☕ Udemy – Java Programming
+- 🎨 freeCodeCamp – Responsive Web Design
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science and Engineering (Core)**  
+  SRM University, Kattankulathur – CGPA: 8.81 (2026)
+
+- **Class XII** – Sri Sankara Vidhyalaya, Chennai – CGPA: 9.28 (2022)
+
+- **Class X** – Sri Sankara Vidhyalaya, Chennai – CGPA: 8.99 (2020)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [karthihamuthuraj@gmail.com](mailto:karthihamuthuraj@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/karthihamuthuraj/)
+- 💻 [GitHub](https://github.com/karthiha03)
+
+---
+
+<p align="center">
+  🌟 “Strive not to be a success, but rather to be of value.” – Albert Einstein
+</p>
